@@ -1,8 +1,5 @@
-# React + Vite
+# React + Vite 
+#Note : To ensure uninterrupted access to TMDB data on our website, please make sure to utilize VPN or Cloudflare Warp services. Without using these services, live TMDB data may not be displayed properly.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://github.com/pavithra026/netflix-clone/assets/83458034/3288ddf2-bb5a-4032-9349-8e396353f772
